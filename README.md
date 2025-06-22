@@ -4,7 +4,9 @@ Den 1 - Domov -> Karlsruhe (6h/550 km) [maps.google.com](https://maps.app.goo.gl
 
 ## Den 2 - 4 (Ubytování 2 Ruen nebo Le Havre)
 Den 2 - Maginot Line Fort Schoenenbourg - Rouen (6,5h/648 km) [maps.google.com](https://maps.app.goo.gl/F5e2wz8ugSR9Xaxj9)
+
 Den 3 - Rouen a Le Havre (jeden den, přejezd tam a zpět 2 h/200 km) [maps.google.com](https://maps.app.goo.gl/PUKQR82W9pbQmVDo9)
+
 Den 4 - Přejezd do Caen (1,5h/128 km) + město nebo Omaha [maps.google.com](https://maps.app.goo.gl/J2Dtgj1tdCZRTK2x6)
 
 ## Den 4 - 6 (Ubytování 3 - Caen)
