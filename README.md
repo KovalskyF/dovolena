@@ -24,9 +24,15 @@
 
 Ubytování:
 12.7. → 13.7.	Karlsruhe
+
 13.7. → 14.7.	Rouen
+
 14.7. → 15.7.	Rouen
+
 15.7. → 16.7.	Rouen
+
 16.7. → 17.7.	Caen
+
 17.7. → 18.7.	Dunkirk
+
 18.7. → 19.7.	Dessau
