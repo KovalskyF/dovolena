@@ -22,7 +22,8 @@
 19.7. Den 8 - Bauhaus a muzeum + návrat (300 km/3,5h) [maps.google.com](https://maps.app.goo.gl/HwyooPE5BG3V69m1A)
 
 
-Ubytování:
+## Ubytování:
+
 12.7. → 13.7.	Karlsruhe
 
 13.7. → 14.7.	Rouen
