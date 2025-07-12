@@ -6,7 +6,7 @@
 13.7. Den 2 - [Maginot Line Fort Schoenenbourg](Informace/Schoenenbourg.md) - Dunkerk (7,5h/660 km) [trasa na mapy.com](https://mapy.com/s/mozokoguko)
 
 ## Den 3 - 4 (Caen)
-14.7. Den 3 - Prohlídka Dunkerku, Přejezd z Dunkerk do Caen přes Le Havre (4h/410 km) [mapy.com](https://mapy.com/s/juvudogonu)
+14.7. Den 3 - [Prohlídka Dunkerku](Informace/Dunkerk.md), Přejezd z Dunkerk do Caen přes Le Havre (4h/410 km) [mapy.com](https://mapy.com/s/juvudogonu)
 
 15.7. Den 4 - Výlet z Caen přes Omaha, Utah, Muzeum D-Day Experience do Batterie de Caqueret (4h/300 km) [mapy.com](https://mapy.com/s/jukazarozo)
 
