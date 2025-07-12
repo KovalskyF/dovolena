@@ -14,7 +14,7 @@
 16.7. Den 5 - Odpočinkový den v [Caen](Informace/caen.md), podvečerní přejezd do Rouen (127km/1,5h) [mapy.com](https://mapy.com/s/norujulesu)
 
 ## Den 6 (Reims)
-17.7. Den 6 - Prohlídka Rouen, podvečerní přejezd do Remeše (284km/3h) [mapy.com](https://mapy.com/s/meregefubo)
+17.7. Den 6 - Prohlídka [Rouen](Informace/Rouen.md), podvečerní přejezd do Remeše (284km/3h) [mapy.com](https://mapy.com/s/meregefubo)
 
 ## Den 7 (Würzburg)
 18.7. Den 7 - Prohlídka Remeše, odpolední přejezd do Würzburgu (545km/5h) [mapy.com](https://mapy.com/s/gunezuduso)
