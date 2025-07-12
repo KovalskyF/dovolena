@@ -11,7 +11,7 @@
 15.7. Den 4 - Výlet z Caen přes Omaha, Utah, Muzeum D-Day Experience do Batterie de Caqueret (4h/300 km) [mapy.com](https://mapy.com/s/jukazarozo)
 
 ## Den 5 (Rouen)
-16.7. Den 5 - Odpočinkový den v Caen, podvečerní přejezd do Rouen (127km/1,5h) [mapy.com](https://mapy.com/s/norujulesu)
+16.7. Den 5 - Odpočinkový den v [Caen](Informace/caen.md), podvečerní přejezd do Rouen (127km/1,5h) [mapy.com](https://mapy.com/s/norujulesu)
 
 ## Den 6 (Reims)
 17.7. Den 6 - Prohlídka Rouen, podvečerní přejezd do Remeše (284km/3h) [mapy.com](https://mapy.com/s/meregefubo)
