@@ -17,7 +17,7 @@
 17.7. Den 6 - Prohlídka [Rouen](Informace/Rouen.md), podvečerní přejezd do Remeše (284km/3h) [mapy.com](https://mapy.com/s/meregefubo)
 
 ## Den 7 (Würzburg)
-18.7. Den 7 - Prohlídka Remeše, odpolední přejezd do Würzburgu (545km/5h) [mapy.com](https://mapy.com/s/gunezuduso)
+18.7. Den 7 - Prohlídka [Remeše](Informace/Reims.md), odpolední přejezd do Würzburgu (545km/5h) [mapy.com](https://mapy.com/s/gunezuduso)
 
 ## Den 8 (Würzburg a návrat)
 19.7. Den 8 - Prohlídka Würzburgu + návrat (350km/4h) [mapy.com](https://mapy.com/s/lupesaguho)
