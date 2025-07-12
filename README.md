@@ -8,7 +8,7 @@
 ## Den 3 - 4 (Caen)
 14.7. Den 3 - [Prohlídka Dunkerku](Informace/Dunkerk.md), Přejezd z Dunkerk do Caen přes Le Havre (4h/410 km) [mapy.com](https://mapy.com/s/juvudogonu)
 
-15.7. Den 4 - Výlet z Caen přes Omaha, Utah, Muzeum D-Day Experience do Batterie de Caqueret (4h/300 km) [mapy.com](https://mapy.com/s/jukazarozo)
+15.7. Den 4 - Výlet z Caen přes [Omaha, Utah, Muzeum D-Day Experience do Batterie de Caqueret](Informace/Plaze_a_baterie.md) (4h/300 km) [mapy.com](https://mapy.com/s/jukazarozo)
 
 ## Den 5 (Rouen)
 16.7. Den 5 - Odpočinkový den v [Caen](Informace/caen.md), podvečerní přejezd do Rouen (127km/1,5h) [mapy.com](https://mapy.com/s/norujulesu)
