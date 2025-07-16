@@ -20,6 +20,10 @@
 ## Den 6 (Reims)
 17.7. Den 6 - Prohlídka [Rouen](Informace/Rouen.md), podvečerní přejezd do Remeše (284km/3h) [mapy.com](https://mapy.com/s/meregefubo)
 
+>[Rouen - zajímavosti k památkám](Informace/Guide to Rouen Landmarks.pdf)
+>
+>[Výlet](https://maps.app.goo.gl/dz8RiovdKGg27Uxt5)
+
 ## Den 7 (Würzburg)
 18.7. Den 7 - Prohlídka [Remeše](Informace/Reims.md), odpolední přejezd do Würzburgu (545km/5h) [mapy.com](https://mapy.com/s/gunezuduso)
 
